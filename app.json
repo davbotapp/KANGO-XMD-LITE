@@ -1,7 +1,7 @@
 {
-  "name": "KANGO-XMD",
+  "name": "Davbot",
   "version": "2.4.5",
-  "description": "KANGO, the best WhatsApp Bot",
+  "description": "Davbot, the best WhatsApp Bot",
   "logo": "https://i.imgur.com/1DkLGVk.jpeg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/OfficialKango/KANGO-XMD-LITE",
@@ -12,12 +12,12 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your kango session id here; must start with KANGO~",
-      "value": "",
+      "value": "5AKMQ36Q",
       "required": false
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "Kango-Bot",
+      "value": "Davbot",
       "required": false
     },
     "OWNER_NUMBER": {
@@ -27,17 +27,17 @@
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "ir David Mpongo",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Kango",
+      "value": "davbot",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Kango",
+      "value": "davbot",
       "required": false
     },
     "HEROKU_API_KEY": {
